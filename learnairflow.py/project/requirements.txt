@@ -1,0 +1,8 @@
+requests==2.27.1
+pandas
+numpy==1.21.5
+statsmodels==0.13.2
+pmdarima==2.0.3
+PyMySQL==1.0.3
+scikit-learn==1.0.2
+SQLAlchemy==1.4.32
